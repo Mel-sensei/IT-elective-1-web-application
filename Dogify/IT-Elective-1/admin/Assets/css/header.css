@@ -1,0 +1,22 @@
+.head{
+			height : auto;
+		
+			background-repeat: no-repeat;
+			background-position: right top;
+			padding-bottom: 4%;
+			box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+		}
+		.head img{
+			margin:10% 40%;
+		}
+		.head-name{
+			padding: 0%;
+			width: 90%;
+			margin: 0%;
+		}
+		.head-name label{
+			color:black;
+		}
+		.school-logo{
+			float: left;
+		}
